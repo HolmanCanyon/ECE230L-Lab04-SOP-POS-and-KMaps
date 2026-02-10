@@ -15,7 +15,7 @@ using an implemented design on your Basys3 boards.
 
 ## Lab Summary
 
-Summarize your learnings from the lab here.
+We learned how to take simplified expressions obtained via KMaps and implement them on a physical Basys board with verilog. We also ran into an issue when generating our bitstream and learned the importance of ensuring that the test file is used only for the simulation and that the top.v file is the one used for synthesis.
 
 ## Lab Questions
 
