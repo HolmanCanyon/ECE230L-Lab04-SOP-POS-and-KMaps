@@ -26,4 +26,5 @@ They are grouped in a way that both the groups of 1's or 0's visibly next to eac
 That is the literal boolean logic description of the types of and/or gates used to implement the equation
 
 ### Open the test.v file – how are we able to check that the signals match using XOR?
+XOR is only set equal to 1 if both inputs are different. This can be used as a check to see if both signals are the same
 
