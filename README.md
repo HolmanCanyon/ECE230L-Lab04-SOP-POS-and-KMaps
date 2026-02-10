@@ -20,8 +20,10 @@ Summarize your learnings from the lab here.
 ## Lab Questions
 
 ### Why are the groups of 1’s (or 0’s) that we select in the KMap able to go across edges?
+They are grouped in a way that both the groups of 1's or 0's visibly next to each other as well as across edges have an element in common
 
 ### Why are the names Sum of Products and Products of Sums?
+That is the literal boolean logic description of the types of and/or gates used to implement the equation
 
 ### Open the test.v file – how are we able to check that the signals match using XOR?
 
